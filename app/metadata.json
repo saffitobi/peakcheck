@@ -1,0 +1,22 @@
+{
+  "/": {
+    "title": "PeakCheck - Sportmotorische Testungen für Mannschaften und Einzelsportler",
+    "description": "Professionelle sportmotorische Testungen: Sprint, Kraftmessplatte, Lauftests. Für Vereine, Mannschaften und Einzelsportler. Jetzt Termin buchen!",
+    "ogImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop"
+  },
+  "/login": {
+    "title": "Login - PeakCheck Patienten-Tool",
+    "description": "Melden Sie sich in Ihr PeakCheck Konto an, um Ihre Testergebnisse einzusehen und Termine zu verwalten.",
+    "ogImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop"
+  },
+  "/dashboard": {
+    "title": "Dashboard - PeakCheck Patienten-Tool",
+    "description": "Ihr persönliches Dashboard mit Testergebnissen, Terminen und Leistungsanalysen.",
+    "ogImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop"
+  },
+  "/spider-tool": {
+    "title": "Interaktives Spinnendiagramm - PeakCheck",
+    "description": "Erstellen Sie Ihr eigenes interaktives Spinnendiagramm zur Visualisierung Ihrer sportlichen Leistung.",
+    "ogImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop"
+  }
+}
